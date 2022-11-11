@@ -1,0 +1,145 @@
+ <div class="container">
+	 <main class="grid">
+                    
+    
+                    
+    
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    <article>
+                        <img src="images/photo.jpg" alt="">
+                        <div class="text">
+                            <h3>Jane cooper</h3>
+                            <p>Nick Rybak</p>
+                            <button>view Profile</button>
+                        </div>
+                    </article>
+
+                    
+
+
+                </main>
+</div>
